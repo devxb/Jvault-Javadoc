@@ -1,6 +1,7 @@
 org.jvault.annotation
+org.jvault.bean
+org.jvault.bean.composition
 org.jvault.beanloader
-org.jvault.beans
 org.jvault.exceptions
 org.jvault.extension
 org.jvault.factory
